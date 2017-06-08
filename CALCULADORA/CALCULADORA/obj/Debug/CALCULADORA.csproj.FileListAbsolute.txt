@@ -1,0 +1,39 @@
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+E:\Executaveis liberados\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+G:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+G:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+G:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+D:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+D:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+D:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+D:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+D:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+D:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+D:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+D:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+D:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+G:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+G:\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+G:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+G:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+G:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+G:\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csprojResolveAssemblyReference.cache
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\dell-e\Downloads\Aula de quinta\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.Cache
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\dell-e\Desktop\Faculdade\Aula de quinta\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
